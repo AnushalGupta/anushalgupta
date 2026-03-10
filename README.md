@@ -15,6 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=anushalgupta&icon=5&color=0)](https://visitcount.itsvg.in)
 
-![](https://github-profile-trophy.vercel.app/?anushalgupta=ryo-ma&no-bg=true&theme=discord)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
